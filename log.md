@@ -25,3 +25,10 @@ retrieval mechanism until it isn't.
 All entries carry `source: seed` and are deletable as a block. 喎 wo3/wo5 and 開會
 hoi1 wui6-2 were verified against Wiktionary, CantoWords and the EdUHK sentence-final
 particle paper rather than asserted from memory.
+
+## [2026-11-01] lint | corrected 囉, verified at seed time
+First lint pass over the fresh skeleton: 0 orphans, 20/20 blocks carry a Status line, all
+wikilinks resolve (remaining grep hits are inside code blocks). One real error found and
+fixed: [[final-particles]] 囉 had collapsed lo1 (stating the obvious) and lo3 (resignation)
+into a single lo1 entry, and gave 「冇辦法囉」the wrong tone. Split per jyutping.org and
+Wiktionary. Both two-particle characters (囉, 喎) now cross-reference each other.

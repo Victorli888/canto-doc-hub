@@ -50,15 +50,20 @@ particles solid first; the stacks come along on their own.
 
 ## Attitude
 
-### 囉 — lo1
-- **Jyutping:** lo1
-- **Use:** "Obviously" / "well, what can you do." Resigned agreement or a conclusion the
-  listener should already see. 「係囉」= "yeah, exactly." 「冇辦法囉」(mou5 baan6 faat3
-  lo1) = "nothing to be done, then."
+### 囉 — lo1 / lo3
+- **Jyutping:** lo1 (stating the obvious) · lo3 (resignation, "as expected")
+- **Use:** Like 喎, one character covering two particles. **lo1** marks something as
+  self-evident — matter-of-fact, sometimes faintly sarcastic: 「係囉」= "yeah, obviously."
+  **lo3** carries resignation or an expected change of state: 「冇辦法囉」(mou5 baan6 faat3
+  lo3) = "nothing to be done, then."
 - **Register:** casual.
-- **Contrast:** bare 「係」is a flat yes. 係囉 is agreement *with feeling* — the thing that
-  makes a conversation sound like two people rather than a transcript.
-- **Status:** new · captured 2026-11-01 · source: seed
+- **Contrast:** bare 「係」is a flat yes. 係囉 is agreement *with an attitude* — the thing
+  that makes a conversation sound like two people rather than a transcript. Note that
+  agreement 係囉 is also commonly cited as hai6 lo3; the two overlap here and the
+  distinction is softer than for 喎.
+- **Status:** new · captured 2026-11-01 · source: seed · verified against jyutping.org and
+  Wiktionary
+- **See also:** [[lazy-sounds]]
 
 ### 嘛 — maa3
 - **Jyutping:** maa3

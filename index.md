@@ -29,7 +29,7 @@ drifts.
 
 | Page | What it is | Entries |
 |---|---|---|
-| [[final-particles]] | 啦 吖 喇 囉 嘛 添 喎 咩 — the highest-leverage page here. | 8 |
+| [[final-particles]] | 啦 吖 喇 囉 嘛 添 喎 咩 — the highest-leverage page here. 囉 and 喎 each cover two particles. | 8 |
 
 ## Phrases by situation
 
