@@ -72,6 +72,17 @@ would have put `ga3` into the 㗎 entry on [[final-particles]]. `bin/canto` prin
 when it sees the pair. For anything longer than one character, prefer the words and phrase
 tables.
 
+**A character lookup can answer about a different word entirely.** The second ingest
+needed 解釋吓. Looking up the character 吓 gives `haa1` / `haa2` — which is right, for the
+interjection "huh?". The verb suffix is `haa5`, filed by words.hk under 下 but written 吓
+in its own word entries (試吓 si3 haa5, 郁吓 juk1 haa5). Same shape as the particle trap
+above and more dangerous, because the reading returned is not wrong, it just belongs to
+another word. For a suffix or a particle, look up a whole word that contains it.
+
+The same pair-of-characters problem runs the other way with 咁 / 噉: words.hk writes the
+manner word (好似…咁) as 噉 gam2 and keeps 咁 for the degree word gam3 (得咁少), while
+everyday Hong Kong writing uses 咁 for both.
+
 **This replaces the easy half of verification, not the hard half.** It answers "what is the
 reading of this word". It does not answer "would a Hong Kong speaker say this whole
 sentence", which is where [[describing-my-job-dump]]'s three register calls sat and where
@@ -99,4 +110,4 @@ wiki is not — but it is worth knowing before any of this gets published.
 
 ## See also
 
-[[describing-my-job-dump]] · [[CLAUDE]] (hard rule 1) · [[tone-sandhi]]
+[[describing-my-job-dump]] · [[explaining-finances-to-mom-dump]] · [[CLAUDE]] (hard rule 1) · [[tone-sandhi]]

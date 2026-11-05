@@ -119,3 +119,19 @@ particles solid first; the stacks come along on their own.
 - **Status:** new · captured 2026-11-04 · source: [[describing-my-job-dump]] · verified
   against Wiktionary (Matthews & Yip 2011)
 - **See also:** [[describing-my-job]], [[softening-and-politeness]]
+
+### 呀嘛 — aa6 maa5
+- **Jyutping:** aa6 maa5
+- **Use:** Three jobs, per words.hk. It confirms something you've just worked out
+  (repeating it back for a yes); it questions a correction someone has made; and — the one
+  that matters here — **it checks that the worst case hasn't happened, and for that it
+  travels with a negative sentence**: 「咁我啲錢冇唔見呀嘛?」= "so my money hasn't gone
+  missing, right?"
+- **Register:** casual. Carries worry or hope, so it is common from parents and with them.
+- **Contrast:** 呀嘛 is not 嘛 (maa3, "obviously" — above). 嘛 asserts something the
+  listener should already accept; 呀嘛 asks the listener to reassure you. Opposite
+  directions. And note the tones: **aa6 maa5**, not aa3 maa3 — the sheet this came from
+  had both syllables wrong, which is easy to do because the particle sounds unstressed.
+- **Status:** new · captured 2026-11-04 · source: [[explaining-finances-to-mom-dump]] ·
+  verified against words.hk via `bin/canto`
+- **See also:** [[talking-about-money]]

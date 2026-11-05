@@ -72,3 +72,20 @@ Rewrote rule 1's search step in [[CLAUDE]]: `bin/canto` before the web, then Web
 static dictionary pages, then a search engine only for usage frequency. Added `raw/words-hk/`
 and `bin/canto` to the structure map. The rule's substance is unchanged — verify, don't
 assert — only the cheapest path to it.
+
+## [2026-11-04] ingest | "Explaining Finances to Mom" → [[talking-about-money]], [[banking-and-finance]]
+Raw at `raw/2026-11-04-explaining-finances-to-mom.md`, summary at
+[[explaining-finances-to-mom-dump]]. 9 entries on a new situation page, a 35-term vocab
+page, and 呀嘛 added to [[final-particles]]. One Jyutping correction in a long sheet:
+呀嘛 aa3 maa3 → **aa6 maa5**, both syllables.
+Two things the sheet got righter than they looked: 戶口 over 帳戶 (words.hk's own
+definitions use 帳户, so the written pull is real), and 「冇唔見呀嘛?」, which reads like a
+learner's double negative but matches words.hk's third sense of 呀嘛 exactly — confirming
+the worst case hasn't happened, with a negative sentence.
+Recorded three orthography notes rather than corrections: 解釋下 → 解釋吓 (reading haa5
+right, character per the wiki's existing 傾吓), 咁 vs 噉 for gam2/gam3, and 獨立 laap6/lap6.
+Noted one gap in the finance content: Roth earnings also need the 5-year rule, not just age.
+First ingest using `bin/canto`. Verification took ~90 seconds against ~15 minutes for
+[[describing-my-job-dump]], and it resolved a question the browser could not: whether the
+wiki's existing 傾吓 king1 haa5 was wrong. It is right — standalone 吓 is haa1/haa2, the
+interjection, a different word. That trap is now documented in [[words-hk-dataset]].

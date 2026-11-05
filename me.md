@@ -24,6 +24,14 @@ see [[concrete-and-construction]]), and the daily work talk is heavily code-mixe
 Cantonese ([[software-and-tech]]). Being new is itself a conversational situation —
 see [[describing-my-job]].
 
+## Family
+
+Explains household admin to his mother in Cantonese — banks, accounts, forms. A recurring
+situation and a demanding one: the content is technical, the register has to stay warm and
+short, and the formal banking vocabulary is exactly what sounds wrong with a parent. See
+[[talking-about-money]]. The transferable lesson so far is that an analogy beats an
+explanation — 「好似兩個銀包咁」lands where 結餘 does not.
+
 ## Goal
 
 Speak Cantonese in daily life the way people actually speak it. The target isn't more

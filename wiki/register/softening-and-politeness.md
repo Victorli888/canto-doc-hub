@@ -2,7 +2,7 @@
 type: register
 tags: [cantonese, register/politeness]
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-04
 ---
 
 # Softening and Politeness
@@ -73,5 +73,7 @@ Three mechanisms do most of the work:
   perfectly polite refusal.
 - **Register:** neutral.
 - **Contrast:** 唔好 (m4 hou2) is "don't" — a prohibition. Declining tea with 唔好 is a
-  rebuke, not a refusal.
+  rebuke, not a refusal. The same split runs through 唔使擔心 vs 唔好擔心 — see
+  [[talking-about-money]].
 - **Status:** new · captured 2026-11-01 · source: seed
+- **See also:** [[talking-about-money]]
