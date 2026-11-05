@@ -49,3 +49,26 @@ Five Jyutping corrections against the source: 軟件 gin6→gin6-2, 訂單 ding6
 gin2→gin6-2, 生產 saang1→sang1, 倒石屎 dou3→落石屎 lok6. Three register calls flagged as
 judgment: 寫程式→寫code, 公司整產品→公司做產品, and the 開發…個系統 register clash.
 [[me]] updated with the job and a new weak spot (reaching for dictionary tones).
+
+## [2026-11-04] ingest | words.hk + rime-cantonese datasets → [[words-hk-dataset]], `bin/canto`
+Pulled the reference layer local, because [[describing-my-job-dump]] spent almost all its
+time on transport: ~20 lookups, each a headless-browser page load, ~2 min of that just
+booting the browser. Now `bin/canto 軟件 訂單` answers offline.
+`raw/words-hk/`: rime-cantonese chars/words/phrase tables (CC BY 4.0, v2026.08.10) for
+Jyutping, and words.hk's 51,899 entries via wordshk-tools (Non-Commercial Open Data
+License) for definitions, part of speech and register labels. ~42MB, gitignored;
+`bin/canto --fetch` restores. Licence texts and `raw/words-hk/NOTICE.md` are committed.
+Two wins over the website: it has the entries words.hk withholds as unpublished (8 of the
+first ingest's 15 lookups were blocked that way, all present here), and register labels
+are a queryable field rather than a judgement call. It also independently confirmed all
+five corrections from the first ingest — including 生產 sang1 caan2, which had rested on
+Wiktionary alone.
+Two caveats documented and guarded in the script: absence from the tables is not evidence
+(渠管, 預製, 平台 are real and missing), and the single-character table lists reduced
+particle forms ahead of citation forms (㗎 ga3 before gaa3) — `bin/canto` warns on the pair.
+
+## [2026-11-04] meta | hard rule 1 checks the local dataset first
+Rewrote rule 1's search step in [[CLAUDE]]: `bin/canto` before the web, then WebFetch for
+static dictionary pages, then a search engine only for usage frequency. Added `raw/words-hk/`
+and `bin/canto` to the structure map. The rule's substance is unchanged — verify, don't
+assert — only the cheapest path to it.

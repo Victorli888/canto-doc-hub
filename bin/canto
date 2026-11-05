@@ -1,0 +1,147 @@
+#!/usr/bin/env python3
+"""Local Cantonese reference lookup. Replaces a browser round trip with a grep.
+
+    bin/canto 軟件            # jyutping + definition + register labels
+    bin/canto 軟件 訂單 生產   # several at once
+    bin/canto --fetch         # (re-)download the datasets into raw/words-hk/
+
+Sources, both in raw/words-hk/ — see wiki/sources/words-hk-dataset.md:
+  jyut6ping3.*.dict.yaml  rime-cantonese, CC BY 4.0. Word -> Jyutping, with
+                          a weight column; the first reading listed is primary.
+  dict.json               words.hk via wordshk-tools, Non-Commercial Open Data
+                          License. Definitions, part of speech, register labels.
+                          Includes entries the website withholds as unpublished.
+
+Two caveats, both load-bearing:
+
+  1. Absence is not evidence. 渠管, 預製 and 平台 are real words missing from
+     these tables — fall back to the web, and keep hard rule 1 either way.
+  2. The chars table lists reduced colloquial spellings for particles, often
+     ahead of the citation form: 㗎 as ga3 before gaa3, 啦 as la1 before laa1.
+     Both are really said, but the wiki writes the citation form. This script
+     warns when it sees the pair; prefer the words/phrase tables for anything
+     longer than one character.
+"""
+import json, pathlib, re, subprocess, sys
+
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+RAW = ROOT / "raw" / "words-hk"
+CACHE = ROOT / ".cache" / "wordshk.tsv"
+RIME = ["jyut6ping3.chars.dict.yaml", "jyut6ping3.words.dict.yaml",
+        "jyut6ping3.phrase.dict.yaml"]
+BASE = "https://raw.githubusercontent.com/rime/rime-cantonese/main"
+DICT = "https://raw.githubusercontent.com/AlienKevin/wordshk-tools/main/dict.json"
+
+
+def fetch():
+    RAW.mkdir(parents=True, exist_ok=True)
+    for f in RIME + ["LICENSE-CC-BY"]:
+        url = f"{BASE}/{f}"
+        out = RAW / (f if f.startswith("jyut") else "LICENSE-rime-cantonese-CC-BY-4.0.txt")
+        print(f"→ {out.name}", flush=True)
+        subprocess.run(["curl", "-fsSL", url, "-o", str(out)], check=True)
+    print("→ dict.json (34MB)", flush=True)
+    subprocess.run(["curl", "-fsSL", DICT, "-o", str(RAW / "dict.json")], check=True)
+    CACHE.unlink(missing_ok=True)
+    build_cache()
+
+
+def flatten(rich):
+    """words.hk rich text: nested [[tag, text], ...] lists. Keep the text."""
+    out = []
+    def walk(x):
+        if isinstance(x, str):
+            out.append(x)
+        elif isinstance(x, list):
+            # ["T", "text"] / ["L", "link"] pairs, else recurse
+            if len(x) == 2 and x[0] in ("T", "L") and isinstance(x[1], str):
+                out.append(x[1])
+            else:
+                for i in x:
+                    walk(i)
+    walk(rich)
+    return "".join(out)
+
+
+def build_cache():
+    src = RAW / "dict.json"
+    if not src.exists():
+        return
+    print("building .cache/wordshk.tsv (once, ~10s)", file=sys.stderr)
+    CACHE.parent.mkdir(parents=True, exist_ok=True)
+    rows = {}
+    for e in json.load(open(src)).values():
+        pos = "/".join(e.get("poses") or [])
+        lab = "/".join(e.get("labels") or [])
+        pub = "" if e.get("published") else "unpublished"
+        defs = []
+        for d in e.get("defs", [])[:3]:
+            yue = flatten(d.get("yue") or []).replace("\t", " ")
+            eng = flatten(d.get("eng") or []).replace("\t", " ")
+            defs.append(f"{yue} // {eng}" if eng else yue)
+        line = "; ".join(defs)[:400]
+        for v in e.get("variants", []):
+            rows.setdefault(v["w"], (pos, lab, pub, line))
+    with open(CACHE, "w") as fh:
+        for w, (pos, lab, pub, line) in sorted(rows.items()):
+            fh.write(f"{w}\t{pos}\t{lab}\t{pub}\t{line}\n")
+
+
+def grep(path, word):
+    if not path.exists():
+        return []
+    r = subprocess.run(["grep", "-F", f"{word}\t", str(path)],
+                       capture_output=True, text=True)
+    return [l for l in r.stdout.splitlines() if l.split("\t")[0] == word]
+
+
+def warn_short(readings):
+    """Flag a reduced/citation pair like ga3 + gaa3, where the reduced form
+    sorts first and would be the wrong thing to write into an entry."""
+    spellings = {jp for jp, _, _ in readings}
+    for jp in sorted(spellings):
+        long = re.sub(r"a(?=[0-9]$)", "aa", jp)
+        if long != jp and long in spellings and readings[0][0] == jp:
+            print(f"  \033[33m!\033[0m {jp} is the reduced colloquial form; "
+                  f"write {long} as the citation reading")
+
+
+def look(word):
+    print(f"\n\033[1m{word}\033[0m")
+    readings = []
+    for f in RIME:
+        for line in grep(RAW / f, word):
+            p = line.split("\t")
+            readings.append((p[1], p[2] if len(p) > 2 else "", f.split(".")[1]))
+    if readings:
+        for i, (jp, weight, tbl) in enumerate(readings):
+            mark = "  (primary)" if i == 0 and len(readings) > 1 else ""
+            w = f"  {weight}" if weight else ""
+            print(f"  {jp}{mark}{w}   [rime/{tbl}]")
+        warn_short(readings)
+    else:
+        print("  no Jyutping in rime-cantonese — check the web, this is a gap")
+    for line in grep(CACHE, word):
+        _, pos, lab, pub, defn = (line.split("\t") + [""] * 4)[:5]
+        bits = [b for b in (pos, lab, pub) if b]
+        if bits:
+            print(f"  [{' · '.join(bits)}]")
+        print(f"  {defn}")
+
+
+def main():
+    args = sys.argv[1:]
+    if not args or args[0] in ("-h", "--help"):
+        print(__doc__)
+        return
+    if args[0] == "--fetch":
+        fetch()
+        return
+    if not CACHE.exists():
+        build_cache()
+    for w in args:
+        look(w)
+    print()
+
+
+main()

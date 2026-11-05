@@ -65,6 +65,7 @@ drifts.
 | Page | What it is |
 |---|---|
 | [[describing-my-job-dump]] | Victor's job-vocabulary sheet, 2026-11-04. Five Jyutping corrections and three register calls recorded here. |
+| [[words-hk-dataset]] | The reference layer: words.hk + rime-cantonese in `raw/words-hk/`, queried with `bin/canto`. Rule 1's first stop. |
 
 ## Strategies
 

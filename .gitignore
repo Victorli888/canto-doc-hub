@@ -31,3 +31,12 @@
 # of downloading attachments locally is that the LLM can read them — ignoring
 # them would break ingest for any source with a diagram or screenshot.
 .gstack/
+
+# Local reference datasets, ~42MB, pulled by `bin/canto --fetch`.
+# Deliberately not committed: dict.json alone is 34MB and would sit in git
+# history forever, the data is one command away, and words.hk's licence
+# attaches notice obligations to distribution. See
+# wiki/sources/words-hk-dataset.md. The licence texts ARE committed.
+raw/words-hk/*.yaml
+raw/words-hk/dict.json
+.cache/
