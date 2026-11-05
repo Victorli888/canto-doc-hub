@@ -1,0 +1,33 @@
+# Obsidian vault config — window layout, plugin state, local appearance.
+# workspace.json in particular rewrites itself every time you move a pane,
+# so tracking it means a dirty repo after simply reading the wiki.
+.obsidian/
+
+# Obsidian's local trash. Deleted notes land here when "Move to Obsidian
+# trash" is the delete setting — recoverable in the vault, not history.
+.trash/
+
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor scratch
+*~
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Sync-service conflict copies. A wiki is the kind of thing that ends up in
+# Dropbox/iCloud/Syncthing eventually; these keep the duplicates out.
+*.sync-conflict-*
+*conflicted copy*
+.stfolder/
+.stversions/
+
+# Deliberately NOT ignored: raw/assets/ and the images in it. The whole point
+# of downloading attachments locally is that the LLM can read them — ignoring
+# them would break ingest for any source with a diagram or screenshot.
+.gstack/

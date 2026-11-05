@@ -2,14 +2,14 @@
 type: meta
 tags: [cantonese, meta/log]
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-02
 ---
 
 # Log
 
 Append-only. Newest at the bottom. `grep "^## \[" log.md | tail -5` for recent activity.
 
-Verbs: `capture` · `ingest` · `query` · `review` · `lint` · `meta`
+Verbs: `wish` · `capture` · `practice` · `status` · `ingest` · `query` · `review` · `lint` · `meta`
 
 ## [2026-11-01] meta | wiki initialized
 Built the skeleton from [[llm-wiki]]: [[CLAUDE]] schema, [[index]], [[log]], [[me]],
@@ -32,3 +32,10 @@ wikilinks resolve (remaining grep hits are inside code blocks). One real error f
 fixed: [[final-particles]] 囉 had collapsed lo1 (stating the obvious) and lo3 (resignation)
 into a single lo1 entry, and gave 「冇辦法囉」the wrong tone. Split per jyutping.org and
 Wiktionary. Both two-particle characters (囉, 喎) now cross-reference each other.
+
+## [2026-11-02] meta | wish-first redesign
+Made **Wish** the primary operation: Victor dumps a moment he lacked a phrase for, the
+natural version is found, verified, and filed by situation with a new **Moment** field.
+Added Process inbox, Practice and Status operations, and `inbox.md`. Pages are now created
+without asking when no situation fits. Rule 1 extended to composed sentences. Review gains
+"Moments that keep coming back".

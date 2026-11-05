@@ -12,14 +12,23 @@ Open Claude Code in this directory. The conventions live in
 [CLAUDE.md](CLAUDE.md) — that file is what makes the agent a disciplined wiki maintainer
 rather than a chatbot.
 
-**Capture** — the main one. Type a phrase you heard. That's the whole interface:
+**Wish** — the main one. Dump a moment where you didn't have the phrase. No format:
 
 ```
-搞掂
+wanted to tell the waiter the soup was too salty
+coworker asked if I'd finished, I said 我已經完成咗 — felt stiff
 ```
 
-It gets verified, filed into the right page in the canonical format, cross-linked, and
-logged.
+You get the natural version back. It's verified, filed by situation with the moment
+attached, and logged.
+
+**Capture** — a phrase you heard. Just type it: `搞掂`.
+
+**Away from the desk** — add a line to `inbox.md` (Obsidian mobile works). Next session:
+*"process inbox"*.
+
+**Practice** — *"practise"* or *"practise taxis"*. Claude replays your saved moments as
+short role-plays. This is what moves entries from `new` toward `active`.
 
 **Other operations** — just ask:
 
