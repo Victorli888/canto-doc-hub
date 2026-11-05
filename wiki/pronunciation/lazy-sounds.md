@@ -2,7 +2,7 @@
 type: pronunciation
 tags: [cantonese, pronunciation/laan-jam]
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-04
 ---
 
 # 懶音 — Lazy Sounds
@@ -58,3 +58,7 @@ distinct. Expect it; produce the careful form.
 五 ng5 → **m5**
 
 Very common when counting or giving a price.
+
+## See also
+
+Changed tone (變調) is a different thing and not optional — [[tone-sandhi]].

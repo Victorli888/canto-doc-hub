@@ -2,7 +2,7 @@
 type: meta
 tags: [cantonese, meta/index]
 created: 2026-11-01
-updated: 2026-11-02
+updated: 2026-11-04
 ---
 
 # Index
@@ -11,7 +11,8 @@ Catalog of every page in the wiki. **Read this first** when answering a question
 drill into the pages it points to. Update it whenever a page is created or its summary
 drifts.
 
-**20 phrase entries** across 3 pages. All seeded, all `new`.
+**29 phrase entries** across 4 pages, plus 2 vocab lists (41 terms) and 1 source page.
+20 seeded, 9 from the first ingest. All `new`.
 
 ## Meta
 
@@ -30,13 +31,14 @@ drifts.
 
 | Page | What it is | Entries |
 |---|---|---|
-| [[final-particles]] | 啦 吖 喇 囉 嘛 添 喎 咩 — the highest-leverage page here. 囉 and 喎 each cover two particles. | 8 |
+| [[final-particles]] | 啦 吖 喇 囉 嘛 添 喎 咩 㗎 — the highest-leverage page here. 囉, 喎 and 㗎 each cover two particles. | 9 |
 
 ## Phrases by situation
 
 | Page | What it is | Entries |
 |---|---|---|
 | [[work-small-talk]] | Office register, including the English code-switching. | 6 |
+| [[describing-my-job]] | Answering 「你做邊行?」— software engineer at a precast concrete company. The 寫code vs 寫程式 call lives here. | 8 |
 
 ## Register
 
@@ -44,11 +46,25 @@ drifts.
 |---|---|---|
 | [[softening-and-politeness]] | Why 請 is a trap; the three mechanisms that replace it. | 6 |
 
+## Vocab
+
+| Page | What it is | Terms |
+|---|---|---|
+| [[software-and-tech]] | Job and software terms, with the column that matters: which ones Hong Kong says in English. | 18 |
+| [[concrete-and-construction]] | 石屎 not 混凝土, and the precast product names Victor hears at work daily. | 23 |
+
 ## Pronunciation
 
 | Page | What it is |
 |---|---|
 | [[lazy-sounds]] | 懶音 — the casual HK mergers, for comprehension and for not sounding like a newsreader. |
+| [[tone-sandhi]] | 變調 — changed tone. The 件 → gin6-2 rule, and the verified instances as they accumulate. |
+
+## Sources
+
+| Page | What it is |
+|---|---|
+| [[describing-my-job-dump]] | Victor's job-vocabulary sheet, 2026-11-04. Five Jyutping corrections and three register calls recorded here. |
 
 ## Strategies
 
@@ -58,6 +74,5 @@ drifts.
 
 ## Not yet created
 
-These appear when there's content for them, not before: `wiki/vocab/`,
-`wiki/sources/`, and further situation pages (ordering food, taxis and directions,
-shops, family, texting).
+These appear when there's content for them, not before: further situation pages
+(ordering food, taxis and directions, shops, family, texting).

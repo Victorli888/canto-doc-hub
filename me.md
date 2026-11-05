@@ -2,7 +2,7 @@
 type: meta
 tags: [cantonese, meta/profile]
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-04
 ---
 
 # Me
@@ -14,6 +14,15 @@ emphasize. See [[CLAUDE]] for the conventions this wiki runs on.
 
 Conversational. Holds real conversations; sounds stiff and textbook doing it.
 Not a beginner — beginner material doesn't belong in this wiki.
+
+## Work
+
+Software engineer at a Hong Kong **precast concrete** company, started around
+October 2026. Owns the e-commerce platform contractors order from. This matters for the
+wiki in two ways: the daily shop talk is construction vocabulary (石屎, 沙井, 承建商 —
+see [[concrete-and-construction]]), and the daily work talk is heavily code-mixed tech
+Cantonese ([[software-and-tech]]). Being new is itself a conversational situation —
+see [[describing-my-job]].
 
 ## Goal
 
@@ -35,6 +44,10 @@ _To be filled in as they show up. Candidates to watch for:_
 - Reaching for written/Mandarin-flavoured forms in speech (請, 完成, 討論, 下班).
 - Dropping particles, leaving sentences grammatical but blunt.
 - Over-careful pronunciation — see [[lazy-sounds]].
+- **Dictionary tones where the spoken form has a changed tone.** The source he brought
+  in on 2026-11-04 had 軟件 as jyun5 gin6 (should be gin6-2), 訂單 as ding6 daan1 (should
+  be deng6), 生產 as saang1 caan2 (should be sang1) — all three the literary/dictionary
+  reading in place of the spoken one. Watch whether this repeats; see [[tone-sandhi]].
 
 ## Recurring mistakes
 

@@ -2,7 +2,7 @@
 type: phrases
 tags: [cantonese, situation/work]
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-04
 ---
 
 # Work Small Talk
@@ -11,6 +11,9 @@ The office register: casual but not slangy, and heavily code-switched with Engli
 most Hong Kong workplaces. Fighting the English is a mistake — 做OT, send個email, book間
 房 are what people actually say, and translating them into pure Cantonese sounds stranger
 than the code-switching does.
+
+Saying what your job *is*, rather than getting through the day in it, is
+[[describing-my-job]]. Term lists: [[software-and-tech]].
 
 ## Getting through the day
 
@@ -41,7 +44,7 @@ than the code-switching does.
 - **Register:** neutral.
 - **Status:** new · captured 2026-11-01 · source: seed · verified against CantoWords and
   Wiktionary
-- **See also:** [[lazy-sounds]]
+- **See also:** [[lazy-sounds]], [[tone-sandhi]]
 
 ### 做OT — work overtime
 - **Jyutping:** zou6 OT
@@ -49,7 +52,9 @@ than the code-switching does.
   「今晚做OT」= "working late tonight."
 - **Register:** casual, standard in HK offices.
 - **Contrast:** 加班 is the written/Mandarin form. Nobody says it in a HK office.
+  Same slot as 寫code over 寫程式 — see [[describing-my-job]].
 - **Status:** new · captured 2026-11-01 · source: seed
+- **See also:** [[software-and-tech]]
 
 ## Talking to people
 

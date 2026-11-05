@@ -2,7 +2,7 @@
 type: meta
 tags: [cantonese, meta/log]
 created: 2026-11-01
-updated: 2026-11-02
+updated: 2026-11-04
 ---
 
 # Log
@@ -39,3 +39,13 @@ natural version is found, verified, and filed by situation with a new **Moment**
 Added Process inbox, Practice and Status operations, and `inbox.md`. Pages are now created
 without asking when no situation fits. Rule 1 extended to composed sentences. Review gains
 "Moments that keep coming back".
+
+## [2026-11-04] ingest | "Describing My Job" vocab dump → [[describing-my-job]], [[software-and-tech]], [[concrete-and-construction]]
+First ingest. Raw at `raw/2026-11-04-describing-my-job.md`, summary at
+[[describing-my-job-dump]]. Fanned out to a new situation page (8 entries), two new vocab
+pages (41 terms) and a 㗎 entry on [[final-particles]]. Created [[tone-sandhi]] because
+the 件 → gin6-2 changed tone now has three instances plus 開會 wui6-2 already in the wiki.
+Five Jyutping corrections against the source: 軟件 gin6→gin6-2, 訂單 ding6→deng6, 組件
+gin2→gin6-2, 生產 saang1→sang1, 倒石屎 dou3→落石屎 lok6. Three register calls flagged as
+judgment: 寫程式→寫code, 公司整產品→公司做產品, and the 開發…個系統 register clash.
+[[me]] updated with the job and a new weak spot (reaching for dictionary tones).

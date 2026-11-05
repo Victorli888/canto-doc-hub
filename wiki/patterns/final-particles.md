@@ -2,7 +2,7 @@
 type: patterns
 tags: [cantonese, grammar/particles, priority/high]
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-04
 ---
 
 # Final Particles
@@ -104,3 +104,18 @@ particles solid first; the stacks come along on their own.
 - **Contrast:** 「係唔係?」is a neutral yes/no question. 咩 carries doubt — you're not
   asking, you're pushing back.
 - **Status:** new · captured 2026-11-01 · source: seed
+
+### 㗎 — gaa3 / gaa4
+- **Jyutping:** gaa3 (stating a matter of fact) · gaa4 (asking for confirmation)
+- **Literal:** a contraction — 嘅 + 啊 gives gaa3, 嘅 + 呀 gives gaa4 (Matthews & Yip).
+- **Use:** **gaa3** presents the sentence as how things are, often correcting an
+  assumption the other person just revealed: 「我寫code㗎」= "I write code, actually."
+  「咁衰㗎!」= "that's awful!" **gaa4** turns it into a check: 「係唔係真㗎?」= "is that
+  really true?", 「你當我傻㗎?」= "you think I'm stupid?"
+- **Register:** casual to neutral, everywhere in speech.
+- **Contrast:** the bare statement 「我寫code」just reports. 㗎 adds "in case you were
+  picturing something else" — which is why it carries explanations and gentle
+  corrections. Because it contains 嘅, it feels like 「我係寫code嘅」compressed.
+- **Status:** new · captured 2026-11-04 · source: [[describing-my-job-dump]] · verified
+  against Wiktionary (Matthews & Yip 2011)
+- **See also:** [[describing-my-job]], [[softening-and-politeness]]
