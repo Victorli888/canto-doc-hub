@@ -212,6 +212,38 @@ He says "practise", or "practise taxis". This is where entries turn into speech.
 
 Rule 1 applies to your lines in the role-play too. Keep them simple and certain.
 
+#### Practice — phrase bank
+
+He asks for "different ways to say", "a collection of phrases", "options" — breadth
+instead of one scripted exchange. Same entries, different delivery: instead of replaying
+one Moment and waiting for a response, lay out a conversational beat as a bank of
+phrasings on each side.
+
+```
+**A:** [what the question means]
+  - phrasing 1 (Jyutping) — register/contrast note — [[source entry]] if filed
+  - phrasing 2 (Jyutping) — register/contrast note
+
+**B:** [what the answer means]
+  - phrasing 1 (Jyutping) — register/contrast note — [[source entry]]
+  - phrasing 2 (Jyutping) — register/contrast note
+```
+
+1. **Prefer phrasings already filed.** The wiki usually already has the variants, sitting
+   in `Contrast` fields (負責 vs 搞, 做 vs 整 vs 生產) — surface those rather than
+   inventing fresh ones.
+2. **New composed variants are allowed but marked** `⚠️ unverified` inline, same as
+   anywhere else rule 1 applies.
+3. **Don't auto-file every variant.** This mode is for exposure, not filing. A variant
+   becomes a wiki entry only if he reacts to it — normal Capture, triggered by his
+   response to the drill, not by running it.
+4. Bookkeeping is the same as scene-replay: entries actually drilled move `new` →
+   `learning` with `· practised <date>`.
+5. Log: `## [date] practice | phrase-bank, N entries, [[describing-my-job]]`.
+
+Both modes stay available — "practise taxis" is scene-replay, "give me options for taxis"
+is phrase bank.
+
 ### Status
 
 "I used 囉 today" → `active`, append `· used <date> <where>`. "That one's solid now" →

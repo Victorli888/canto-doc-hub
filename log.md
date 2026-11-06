@@ -96,3 +96,10 @@ interjection, a different word. That trap is now documented in [[words-hk-datase
 pairing of 叫 with AI, and 自己check over 校對 as the natural register for code review
 (same judgment shape as 寫code over 寫程式). 5 new terms added to [[software-and-tech]]:
 人工智能, 判斷, 執行, 改, 架構.
+
+## [2026-11-05] meta | added Practice — phrase bank mode
+Scene-replay was the only Practice mode on file, and Victor asked for a different shape:
+a bank of phrasings per side of an exchange, for building vocabulary breadth rather than
+producing one line. Documented as a sibling mode under Practice in [[CLAUDE]], same
+bookkeeping (new → learning, log line) but variants are filed only if he reacts to one —
+the drill itself doesn't write to any page.
