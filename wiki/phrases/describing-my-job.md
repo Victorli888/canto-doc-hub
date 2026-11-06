@@ -132,3 +132,57 @@ generally is [[work-small-talk]].
   (落石屎 and 㗎 are each verified; the assembled joke is composed, so its naturalness is
   not)
 - **See also:** [[final-particles]], [[concrete-and-construction]]
+
+## How I actually write code now
+
+### 叫AI寫code — get AI to write the code
+- **Jyutping:** giu3 AI se2 code
+- **Use:** 叫 is "get someone to do something for you" — the natural verb for handing a
+  task to AI, not just using a tool. 「我叫AI幫我寫code」= "I get AI to write the code
+  for me."
+- **Register:** casual, standard in HK tech talk. Mildly personifies the AI, which is how
+  engineers actually talk about it day to day.
+- **Contrast:** 用AI寫code (jung6 AI se2 code) is the flatter, more descriptive version —
+  "I use AI to write code." Both are fine; 叫 carries a bit more "I delegated this."
+- **Status:** new · wished 2026-11-05 · ⚠️ unverified (both words verified individually;
+  the pairing is composed)
+- **See also:** [[software-and-tech]]
+
+### 我負責判斷，AI負責寫 — I handle the judgment calls, AI does the writing
+- **Jyutping:** ngo5 fu6 zaak3 pun3 dyun3, AI fu6 zaak3 se2
+- **Use:** The one-line summary of the whole workflow, good for a work introduction or
+  explaining what your job actually is now. 判斷 (pun3 dyun3) is "to judge / decide",
+  negotiating fine against 做決定.
+- **Register:** neutral — carries a hint of structure, right for describing a process to
+  a colleague rather than chatting with a friend.
+- **Status:** new · wished 2026-11-05 · ⚠️ unverified (composed from verified chunks)
+- **See also:** [[software-and-tech]]
+
+### AI寫完，我自己要check同改 — once AI's written it, I check it and fix it myself
+- **Jyutping:** AI se2 jyun4, ngo5 zi6 gei2 jiu3 check tung4 goi2
+- **Use:** The review step. 改 (goi2) is the ordinary word for fixing/correcting; check is
+  the English loanword, same register slot as 寫code.
+- **Register:** casual.
+- **Contrast:** 校對 (gaau3 deoi3) is attested and means "check against the standard" —
+  but it reads as proofreading a document, not reviewing code. 自己check matches this
+  wiki's existing pattern (寫code, not 寫程式) better than reaching for the Chinese
+  technical word. Judgment call, same shape as that one.
+- **Status:** new · wished 2026-11-05 · ⚠️ unverified
+- **See also:** [[software-and-tech]]
+
+### 用AI快好多 / 慳好多時間 — using AI is a lot faster / saves a lot of time
+- **Jyutping:** jung6 AI faai3 hou2 do1 / haan1 hou2 do1 si4 gaan3
+- **Use:** Two short tags for why you do it this way. 慳 (haan1) is "to save" (money,
+  time), the everyday word, not a technical one.
+- **Register:** casual.
+- **Status:** new · wished 2026-11-05
+- **See also:** [[software-and-tech]]
+
+### Composite — describing the whole workflow in one go
+我依家寫code嘅方法，就係叫AI幫我寫，啲重要嘅判斷同設計我自己做，寫完我再check同改。
+ngo5 ji1 gaa1 se2 code ge3 fong3 faat3, zau6 hai6 giu3 AI bong1 ngo5 se2, di1 zung6 jiu3
+ge3 pun3 dyun3 tung4 cit3 gai3 ngo5 zi6 gei2 zou6, se2 jyun4 ngo5 zoi3 check tung4 goi2.
+*The way I write code now is: I get AI to write it, I handle the important judgment
+calls and design myself, and once it's written I check it over and fix it.*
+- **Status:** new · wished 2026-11-05 · ⚠️ unverified — composed sentence, every chunk
+  checked individually but the whole has not been heard

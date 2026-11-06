@@ -11,8 +11,8 @@ Catalog of every page in the wiki. **Read this first** when answering a question
 drill into the pages it points to. Update it whenever a page is created or its summary
 drifts.
 
-**39 phrase entries** across 5 pages, plus 3 vocab lists (76 terms) and 3 source pages.
-20 seeded, 19 ingested. All `new`.
+**43 phrase entries** across 5 pages, plus 3 vocab lists (81 terms) and 3 source pages.
+20 seeded, 23 wished/ingested. All `new`.
 
 ## Meta
 
@@ -38,7 +38,7 @@ drifts.
 | Page | What it is | Entries |
 |---|---|---|
 | [[work-small-talk]] | Office register, including the English code-switching. | 6 |
-| [[describing-my-job]] | Answering 「你做邊行?」— software engineer at a precast concrete company. The 寫code vs 寫程式 call lives here. | 8 |
+| [[describing-my-job]] | Answering 「你做邊行?」— software engineer at a precast concrete company. The 寫code vs 寫程式 call lives here. | 12 |
 | [[talking-about-money]] | Explaining money to a worried parent. 好似…咁 does more work than any banking word. | 9 |
 
 ## Register
@@ -51,7 +51,7 @@ drifts.
 
 | Page | What it is | Terms |
 |---|---|---|
-| [[software-and-tech]] | Job and software terms, with the column that matters: which ones Hong Kong says in English. | 18 |
+| [[software-and-tech]] | Job and software terms, with the column that matters: which ones Hong Kong says in English. | 23 |
 | [[concrete-and-construction]] | 石屎 not 混凝土, and the precast product names Victor hears at work daily. | 23 |
 | [[banking-and-finance]] | Accounts, moving money, tax and retirement — with the family word and the form word side by side. | 35 |
 

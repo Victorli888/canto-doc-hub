@@ -2,7 +2,7 @@
 type: vocab
 tags: [cantonese, situation/work, topic/software]
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-05
 ---
 
 # Software and Tech Vocabulary
@@ -36,6 +36,11 @@ All readings below were checked against [words.hk](https://words.hk) or
 | 負責 | fu6 zaak3 | be responsible for | 負責 at work; 搞 (gaau2) with friends |
 | 返工 | faan1 gung1 | go to work | 返工, never 工作 or 上班 |
 | 公司 | gung1 si1 | company | 公司 |
+| 人工智能 | jan4 gung1 zi3 nang4 | artificial intelligence | 人工智能, but usually just **AI** in speech |
+| 判斷 | pun3 dyun3 | judge, decide | 判斷 |
+| 執行 | zap1 hang4 | execute, carry out | 執行 |
+| 改 | goi2 | fix, correct | 改 — ordinary word, not technical |
+| 架構 | gaa3 gau3 | architecture (of a system) | 架構 |
 
 ## The one pattern to take away
 

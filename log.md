@@ -89,3 +89,10 @@ First ingest using `bin/canto`. Verification took ~90 seconds against ~15 minute
 [[describing-my-job-dump]], and it resolved a question the browser could not: whether the
 wiki's existing 傾吓 king1 haa5 was wrong. It is right — standalone 吓 is haa1/haa2, the
 interjection, a different word. That trap is now documented in [[words-hk-dataset]].
+
+## [2026-11-05] wish | describing how I guide AI to write code → [[describing-my-job]]
+4 entries + 1 composite example: 叫AI寫code, 我負責判斷AI負責寫, AI寫完我自己check同改,
+用AI快好多/慳好多時間. All composed from verified chunks and marked ⚠️ unverified — the
+pairing of 叫 with AI, and 自己check over 校對 as the natural register for code review
+(same judgment shape as 寫code over 寫程式). 5 new terms added to [[software-and-tech]]:
+人工智能, 判斷, 執行, 改, 架構.
