@@ -2,7 +2,7 @@
 type: vocab
 tags: [cantonese, topic/money, situation/family]
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-12
 ---
 
 # Banking and Finance Vocabulary
@@ -41,6 +41,8 @@ mistake as 完成 for 搞掂 at work.
 | 攞出嚟 lo2 ceot1 lai4 | — | take it out |
 | 轉錢 zyun2 cin2 | 轉賬 zyun2 zoeng3 | move money / transfer |
 | 存錢 cyun4 cin2 | — | save money (into an account) |
+| 使錢 sai2 cin2 | — | spend money |
+| 平時用 ping4 si4 jung6 | 日常 jat6 soeng4 (written modifier) | for everyday use — see [[talking-about-money#畀你平時用嘅]] |
 
 words.hk marks 提款 explicitly as 更為正式嘅講法, "the more formal way of saying it".
 Both halves of this table are worth knowing: you say the left one to Mom and you read the
@@ -57,6 +59,20 @@ right one on the screen.
 | 唔知 | m4 zi1 | doesn't know | |
 | 唔見 | m4 gin3 | lost, missing | |
 | 兩間 / 兩個 | loeng5 gaan1 / loeng5 go3 | two | 間 for banks and shops, 個 for accounts and wallets |
+
+## CDs, funds, and counting money
+
+| Chinese | Jyutping | English | Notes |
+|---|---|---|---|
+| 蚊 | man1 | dollar | Casual counter for money — 一千蚊 = $1,000. Same character as "mosquito"; context never confuses the two. Confirmed in rime-cantonese's own example sentence, 一千蚊錢. |
+| 定期存款 | ding6 kei4 cyun4 fun2 | CD, time deposit | words.hk: 利息比一般活期存款高 — explicitly higher interest than a regular account, in exchange for being locked up. This is the form word |
+| 做定期 | zou6 ding6 kei4 | put money in a fixed deposit | **The spoken version.** 定期 is the short noun. Not in the local dataset (it only has the adverb 定期, "regularly"). Attested in HK finance writing, e.g. MoneyHero's 借錢做定期. See [[everyday-money-phrasing-feedback]] |
+| 未到期 | mei6 dou3 kei4 | not yet matured | 未到期就攞唔到出嚟 — "can't take it out before it matures" |
+| 鎖住 | so2 zyu6 | locked (up) | What a CD does to the money until maturity. Confirmed in words.hk's own example (太平門唔可以鎖住 — a fire exit can't be locked) |
+| 到期 | dou3 kei4 | matures, becomes due | 到期先攞得出嚟 — "you can only take it out once it matures" |
+| 基金 | gei1 gam1 | fund | Covers both senses: money set aside for a purpose, and the investment-fund sense (ETFs, mutual funds) |
+| ETF | — | ETF | No Cantonese term — same code-switch slot as Roth IRA below: say it in English, gloss with 基金 if needed |
+| 個人投資戶口 | go3 jan4 tau4 zi1 wu6 hau2 | personal investment account | Compositional — 個人 + 投資 + 戶口, same pattern as 退休戶口 below |
 
 ## Retirement and tax
 

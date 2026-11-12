@@ -2,7 +2,7 @@
 type: meta
 tags: [cantonese, meta/index]
 created: 2026-11-01
-updated: 2026-11-04
+updated: 2026-11-12
 ---
 
 # Index
@@ -11,8 +11,8 @@ Catalog of every page in the wiki. **Read this first** when answering a question
 drill into the pages it points to. Update it whenever a page is created or its summary
 drifts.
 
-**43 phrase entries** across 5 pages, plus 3 vocab lists (81 terms) and 3 source pages.
-20 seeded, 23 wished/ingested. All `new`.
+**44 phrase entries** across 5 pages, plus 3 vocab lists (85 terms) and 4 source pages.
+20 seeded, 24 wished/ingested/captured. Mostly `new`; 9 `learning` after the 2026-11-11 practice.
 
 ## Meta
 
@@ -39,7 +39,7 @@ drifts.
 |---|---|---|
 | [[work-small-talk]] | Office register, including the English code-switching. | 6 |
 | [[describing-my-job]] | Answering 「你做邊行?」— software engineer at a precast concrete company. The 寫code vs 寫程式 call lives here. | 12 |
-| [[talking-about-money]] | Explaining money to a worried parent. 好似…咁 does more work than any banking word. | 9 |
+| [[talking-about-money]] | Explaining money to a worried parent. 好似…咁 does more work than any banking word. | 12 |
 
 ## Register
 
@@ -53,7 +53,7 @@ drifts.
 |---|---|---|
 | [[software-and-tech]] | Job and software terms, with the column that matters: which ones Hong Kong says in English. | 23 |
 | [[concrete-and-construction]] | 石屎 not 混凝土, and the precast product names Victor hears at work daily. | 23 |
-| [[banking-and-finance]] | Accounts, moving money, tax and retirement — with the family word and the form word side by side. | 35 |
+| [[banking-and-finance]] | Accounts, moving money, tax and retirement — with the family word and the form word side by side. | 46 |
 
 ## Pronunciation
 
@@ -68,6 +68,7 @@ drifts.
 |---|---|
 | [[describing-my-job-dump]] | Victor's job-vocabulary sheet, 2026-11-04. Five Jyutping corrections and three register calls recorded here. |
 | [[explaining-finances-to-mom-dump]] | The finances-for-Mom sheet, 2026-11-04. One Jyutping error; 「冇唔見呀嘛」vindicated. |
+| [[everyday-money-phrasing-feedback]] | Critique of the 日常用嗰筆 line, 2026-11-12. 平時 over 日常, 做定期 over 定期存款. |
 | [[words-hk-dataset]] | The reference layer: words.hk + rime-cantonese in `raw/words-hk/`, queried with `bin/canto`. Rule 1's first stop. |
 
 ## Strategies

@@ -103,3 +103,9 @@ a bank of phrasings per side of an exchange, for building vocabulary breadth rat
 producing one line. Documented as a sibling mode under Practice in [[CLAUDE]], same
 bookkeeping (new → learning, log line) but variants are filed only if he reacts to one —
 the drill itself doesn't write to any page.
+## [2026-11-09] wish | full account breakdown, WF CD+checking + Wealthfront HYSA/Roth/ETFs → [[talking-about-money]], [[banking-and-finance]]
+## [2026-11-11] meta | Practice (scene-replay) default is now a full read-through script + vocab table, not stop-and-wait
+## [2026-11-11] practice | 5 entries, [[talking-about-money]]
+## [2026-11-11] practice | 6 entries, full-picture scene (two banks, CD, HYSA, Roth, ETFs) → [[talking-about-money]]
+## [2026-11-12] capture | 畀你平時用嘅 (3 phrasings, replaces 日常用嗰筆) → [[talking-about-money]], [[banking-and-finance]]
+## [2026-11-12] ingest | everyday-money phrasing feedback → [[everyday-money-phrasing-feedback]], 擺咗落定期存款 → 擺咗做定期, [[talking-about-money]], [[banking-and-finance]]
