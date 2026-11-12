@@ -202,15 +202,22 @@ He says "practise", or "practise taxis". This is where entries turn into speech.
 
 1. Pick 3–5 entries: `learning` first, then the oldest `new`. Restrict to a page or
    situation if he names one.
-2. For each, replay the **Moment**: set the scene in a line or two, in Cantonese, and
-   let him respond. Stay in character and don't hint the target phrase.
-3. After each response: if he used the target naturally, say so. If not, give the
-   natural version and one line on the difference.
-4. Afterwards, move practised entries from `new` to `learning` and append
+2. **Default delivery is a full scripted dialogue, written out in one pass for him to
+   read** — both sides, every line in Cantonese with Jyutping and an English gloss
+   underneath, replaying the Moment(s) as a continuous scene. Do not stop after each line
+   to wait for his response — he reads straight through. Only switch to the stop-and-wait,
+   he-answers-each-turn style if he explicitly asks to try answering himself (e.g. "let me
+   try", "quiz me").
+3. After the script, add a **vocabulary table**: three columns, Character / Jyutping /
+   English, covering the key reusable terms used in the dialogue — this is the standing
+   format, not a one-off.
+4. If he does respond (the explicit-ask case): if he used the target naturally, say so. If
+   not, give the natural version and one line on the difference.
+5. Afterwards, move practised entries from `new` to `learning` and append
    `· practised <date>` to the trail. New mistakes go to `me.md`.
-5. Log: `## [date] practice | 4 entries, [[taxis]], [[ordering-food]]`.
+6. Log: `## [date] practice | 4 entries, [[taxis]], [[ordering-food]]`.
 
-Rule 1 applies to your lines in the role-play too. Keep them simple and certain.
+Rule 1 applies to your lines in the script too. Keep them simple and certain.
 
 #### Practice — phrase bank
 
