@@ -2,7 +2,7 @@
 type: meta
 tags: [cantonese, meta/index]
 created: 2026-11-01
-updated: 2026-11-12
+updated: 2026-11-17
 ---
 
 # Index
@@ -11,8 +11,8 @@ Catalog of every page in the wiki. **Read this first** when answering a question
 drill into the pages it points to. Update it whenever a page is created or its summary
 drifts.
 
-**44 phrase entries** across 5 pages, plus 3 vocab lists (85 terms) and 4 source pages.
-20 seeded, 24 wished/ingested/captured. Mostly `new`; 9 `learning` after the 2026-11-11 practice.
+**57 phrase entries** across 6 pages, plus 3 vocab lists (85 terms) and 4 source pages.
+20 seeded, 37 wished/ingested/captured. Mostly `new`; 22 `learning` after the 11-11 and 11-12 practices.
 
 ## Meta
 
@@ -40,6 +40,7 @@ drifts.
 | [[work-small-talk]] | Office register, including the English code-switching. | 6 |
 | [[describing-my-job]] | Answering 「你做邊行?」— software engineer at a precast concrete company. The 寫code vs 寫程式 call lives here. | 12 |
 | [[talking-about-money]] | Explaining money to a worried parent. 好似…咁 does more work than any banking word. | 12 |
+| [[everyday-life]] | 「最近點呀?」— pets, tiredness, chores. 攰 not 疲倦, 揀飲擇食 not 偏食, 執屋 not 打掃. | 13 |
 
 ## Register
 
@@ -80,4 +81,4 @@ drifts.
 ## Not yet created
 
 These appear when there's content for them, not before: further situation pages
-(ordering food, taxis and directions, shops, family, texting).
+(ordering food, taxis and directions, shops, texting).

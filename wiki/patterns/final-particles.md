@@ -2,7 +2,7 @@
 type: patterns
 tags: [cantonese, grammar/particles, priority/high]
 created: 2026-11-01
-updated: 2026-11-04
+updated: 2026-11-17
 ---
 
 # Final Particles
@@ -63,7 +63,7 @@ particles solid first; the stacks come along on their own.
   distinction is softer than for 喎.
 - **Status:** new · captured 2026-11-01 · source: seed · verified against jyutping.org and
   Wiktionary
-- **See also:** [[lazy-sounds]]
+- **See also:** [[lazy-sounds]], [[everyday-life#氹佢食]] (唯有…囉)
 
 ### 嘛 — maa3
 - **Jyutping:** maa3

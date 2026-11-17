@@ -2,7 +2,7 @@
 type: phrases
 tags: [cantonese, situation/work]
 created: 2026-11-01
-updated: 2026-11-04
+updated: 2026-11-17
 ---
 
 # Work Small Talk
@@ -36,6 +36,7 @@ Saying what your job *is*, rather than getting through the day in it, is
 - **Contrast:** 下班 is the Mandarin-flavoured written form — recognizable but not spoken
   in HK.
 - **Status:** new · captured 2026-11-01 · source: seed
+- **See also:** [[everyday-life#放工仲要…]] (放工 vs 收工)
 
 ### 開會 — have a meeting
 - **Jyutping:** hoi1 wui6-2

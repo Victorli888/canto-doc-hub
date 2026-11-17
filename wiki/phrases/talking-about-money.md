@@ -2,7 +2,7 @@
 type: phrases
 tags: [cantonese, situation/family, topic/money]
 created: 2026-11-04
-updated: 2026-11-12
+updated: 2026-11-17
 ---
 
 # Talking About Money
@@ -57,6 +57,7 @@ correct banking vocabulary, because the problem was never that Mom lacked the wo
   inability. For a worried parent that difference is the whole reassurance: the bank isn't
   hiding it, it just can't reach it.
 - **Status:** new · captured 2026-11-04 · source: [[explaining-finances-to-mom-dump]]
+- **See also:** [[everyday-life#唔肯食]] (same can't/won't split)
 
 ### 唔使擔心 — don't worry
 - **Jyutping:** m4 sai2 daam1 sam1

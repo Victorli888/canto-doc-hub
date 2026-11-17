@@ -2,7 +2,7 @@
 type: pronunciation
 tags: [cantonese, pronunciation/laan-jam]
 created: 2026-11-01
-updated: 2026-11-04
+updated: 2026-11-17
 ---
 
 # 懶音 — Lazy Sounds
@@ -20,6 +20,8 @@ The honest guidance: know the careful form, and let the merged form happen in ca
 speech rather than drilling against it. Keep the careful form for anything formal.
 
 ## n- → l-
+
+Worked instance: 燒腦 (siu1 nou5) is often siu1 lou5 — see [[everyday-life#好燒腦]].
 
 你 nei5 → **lei5** · 男 naam4 → **laam4** · 腦 nou5 → **lou5**
 

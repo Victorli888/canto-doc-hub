@@ -2,7 +2,7 @@
 type: phrases
 tags: [cantonese, situation/work, situation/small-talk]
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-17
 ---
 
 # Describing My Job
@@ -27,7 +27,7 @@ generally is [[work-small-talk]].
   軟件 / 硬件 / 組件 it surfaces as **gin2** (a changed tone, written gin6-2). Saying
   jyun5 *gin6* is the mistake, and it is audible.
 - **Example:** 我係軟件工程師。— ngo5 hai6 jyun5 gin6-2 gung1 cing4 si1.
-- **Status:** new · captured 2026-11-04 · source: [[describing-my-job-dump]] · verified
+- **Status:** learning · captured 2026-11-04 · practised 2026-11-12 · source: [[describing-my-job-dump]] · verified
   against words.hk and Wiktionary
 - **See also:** [[software-and-tech]], [[tone-sandhi]]
 
@@ -41,10 +41,10 @@ generally is [[work-small-talk]].
   not in your mouth. This is the same code-mixing slot as 做OT and send個email in
   [[work-small-talk]]: English fills in precisely because the Chinese option sounds too
   formal. 編程 (pin1 cing4) is the written verb; also not spoken.
-- **Status:** new · captured 2026-11-04 · source: [[describing-my-job-dump]] · ⚠️ unverified
+- **Status:** learning · captured 2026-11-04 · practised 2026-11-12 · source: [[describing-my-job-dump]] · ⚠️ unverified
   (the word is certain; the claim that it beats 寫程式 in speech is judgment, not a
   dictionary fact)
-- **See also:** [[work-small-talk]], [[software-and-tech]]
+- **See also:** [[work-small-talk]], [[software-and-tech]], [[everyday-life#做gym — work out]] (same English-wins slot)
 
 ### 啱啱開始呢份工 — I just started this job
 - **Jyutping:** ngaam1 ngaam1 hoi1 ci2 ni1 fan6 gung1
@@ -55,7 +55,7 @@ generally is [[work-small-talk]].
 - **Contrast:** 最近 (zeoi3 gan6, "recently") is vaguer and does not buy you the same
   latitude. 啱啱 says *very* recently.
 - **Example:** 我啱啱開始呢份工。— ngo5 ngaam1 ngaam1 hoi1 ci2 ni1 fan6 gung1.
-- **Status:** new · captured 2026-11-04 · source: [[describing-my-job-dump]]
+- **Status:** learning · captured 2026-11-04 · practised 2026-11-12 · source: [[describing-my-job-dump]]
 
 ## Where I work and what I do there
 
@@ -69,7 +69,7 @@ generally is [[work-small-talk]].
   English would put "I work at".
 - **Example:** 我喺一間做預製石屎嘅公司返工。— ngo5 hai2 jat1 gaan1 zou6 jyu6 zai3
   sek6 si2 ge3 gung1 si1 faan1 gung1. "I work at a precast concrete company."
-- **Status:** new · captured 2026-11-04 · source: [[describing-my-job-dump]]
+- **Status:** learning · captured 2026-11-04 · practised 2026-11-12 · source: [[describing-my-job-dump]]
 - **See also:** [[work-small-talk]]
 
 ### 負責 — be responsible for / my patch is
@@ -83,7 +83,7 @@ generally is [[work-small-talk]].
   [[work-small-talk]].
 - **Example:** 我負責公司嘅網上商店平台。— ngo5 fu6 zaak3 gung1 si1 ge3 mong5 soeng6
   soeng1 dim3 ping4 toi4.
-- **Status:** new · captured 2026-11-04 · source: [[describing-my-job-dump]]
+- **Status:** learning · captured 2026-11-04 · practised 2026-11-12 · source: [[describing-my-job-dump]]
 - **See also:** [[software-and-tech]]
 
 ### 我哋公司做… — my company makes …
@@ -98,7 +98,7 @@ generally is [[work-small-talk]].
 - **Example:** 我哋公司做石屎基建產品，例如沙井、渠管同擋土牆。— ngo5 dei6 gung1 si1
   zou6 sek6 si2 gei1 gin3 caan2 ban2, lai6 jyu4 saa1 zeng2, keoi4 gun2 tung4 dong2
   tou2 coeng4.
-- **Status:** new · captured 2026-11-04 · source: [[describing-my-job-dump]]
+- **Status:** learning · captured 2026-11-04 · practised 2026-11-12 · source: [[describing-my-job-dump]]
 - **See also:** [[concrete-and-construction]]
 
 ### 落單 — place an order
@@ -111,7 +111,7 @@ generally is [[work-small-talk]].
   in Hong Kong speech.
 - **Example:** 承建商可以喺網上落單。— sing4 gin3 soeng1 ho2 ji5 hai2 mong5 soeng6
   lok6 daan1.
-- **Status:** new · captured 2026-11-04 · source: [[describing-my-job-dump]] · verified
+- **Status:** learning · captured 2026-11-04 · practised 2026-11-12 · source: [[describing-my-job-dump]] · verified
   against Wiktionary
 - **See also:** [[software-and-tech]]
 
@@ -128,7 +128,7 @@ generally is [[work-small-talk]].
   **dou2**, not dou3 — but 落石屎 is the trade phrase.) The particle 㗎 (gaa3) is what
   makes it a correction of an assumption rather than a bare statement; without it the
   line is flat.
-- **Status:** new · captured 2026-11-04 · source: [[describing-my-job-dump]] · ⚠️ unverified
+- **Status:** learning · captured 2026-11-04 · practised 2026-11-12 · source: [[describing-my-job-dump]] · ⚠️ unverified
   (落石屎 and 㗎 are each verified; the assembled joke is composed, so its naturalness is
   not)
 - **See also:** [[final-particles]], [[concrete-and-construction]]
@@ -144,7 +144,7 @@ generally is [[work-small-talk]].
   engineers actually talk about it day to day.
 - **Contrast:** 用AI寫code (jung6 AI se2 code) is the flatter, more descriptive version —
   "I use AI to write code." Both are fine; 叫 carries a bit more "I delegated this."
-- **Status:** new · wished 2026-11-05 · ⚠️ unverified (both words verified individually;
+- **Status:** learning · wished 2026-11-05 · practised 2026-11-12 · ⚠️ unverified (both words verified individually;
   the pairing is composed)
 - **See also:** [[software-and-tech]]
 
@@ -155,7 +155,7 @@ generally is [[work-small-talk]].
   negotiating fine against 做決定.
 - **Register:** neutral — carries a hint of structure, right for describing a process to
   a colleague rather than chatting with a friend.
-- **Status:** new · wished 2026-11-05 · ⚠️ unverified (composed from verified chunks)
+- **Status:** learning · wished 2026-11-05 · practised 2026-11-12 · ⚠️ unverified (composed from verified chunks)
 - **See also:** [[software-and-tech]]
 
 ### AI寫完，我自己要check同改 — once AI's written it, I check it and fix it myself
@@ -167,7 +167,7 @@ generally is [[work-small-talk]].
   but it reads as proofreading a document, not reviewing code. 自己check matches this
   wiki's existing pattern (寫code, not 寫程式) better than reaching for the Chinese
   technical word. Judgment call, same shape as that one.
-- **Status:** new · wished 2026-11-05 · ⚠️ unverified
+- **Status:** learning · wished 2026-11-05 · practised 2026-11-12 · ⚠️ unverified
 - **See also:** [[software-and-tech]]
 
 ### 用AI快好多 / 慳好多時間 — using AI is a lot faster / saves a lot of time
@@ -175,14 +175,14 @@ generally is [[work-small-talk]].
 - **Use:** Two short tags for why you do it this way. 慳 (haan1) is "to save" (money,
   time), the everyday word, not a technical one.
 - **Register:** casual.
-- **Status:** new · wished 2026-11-05
+- **Status:** learning · wished 2026-11-05 · practised 2026-11-12
 - **See also:** [[software-and-tech]]
 
 ### Composite — describing the whole workflow in one go
 我依家寫code嘅方法，就係叫AI幫我寫，啲重要嘅判斷同設計我自己做，寫完我再check同改。
-ngo5 ji1 gaa1 se2 code ge3 fong3 faat3, zau6 hai6 giu3 AI bong1 ngo5 se2, di1 zung6 jiu3
+ngo5 ji1 gaa1 se2 code ge3 fong1 faat3, zau6 hai6 giu3 AI bong1 ngo5 se2, di1 zung6 jiu3
 ge3 pun3 dyun3 tung4 cit3 gai3 ngo5 zi6 gei2 zou6, se2 jyun4 ngo5 zoi3 check tung4 goi2.
 *The way I write code now is: I get AI to write it, I handle the important judgment
 calls and design myself, and once it's written I check it over and fix it.*
-- **Status:** new · wished 2026-11-05 · ⚠️ unverified — composed sentence, every chunk
+- **Status:** learning · wished 2026-11-05 · practised 2026-11-12 · ⚠️ unverified — composed sentence, every chunk
   checked individually but the whole has not been heard
