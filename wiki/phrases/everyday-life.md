@@ -34,7 +34,7 @@ The job itself is [[describing-my-job]]. Office talk is [[work-small-talk]].
 - **Example:** 我屋企養咗兩隻貓，最近仲多咗隻狗。— ngo5 uk1 kei2 joeng5 zo2 loeng5 zek3
   maau1, zeoi3 gan6 zung6 do1 zo2 zek3 gau2. "I've got two cats at home, and recently a dog
   as well." ⚠️ The sentence is composed. 養, 隻 and 多咗 are each verified.
-- **Status:** new · wished 2026-11-17 · catching up, explaining why life is busy · ⚠️ unverified
+- **Status:** learning · wished 2026-11-17 · practised 2026-11-17 · catching up, explaining why life is busy · ⚠️ unverified
 - **See also:** [[everyday-life#揀飲擇食]]
 
 ### 揀飲擇食 — a fussy eater
@@ -50,7 +50,7 @@ The job itself is [[describing-my-job]]. Office talk is [[work-small-talk]].
   偏食 is what a nutritionist writes.
 - **Example:** 隻狗好揀飲擇食，唔肯食狗糧。— zek3 gau2 hou2 gaan2 jam2 zaak6 sik6, m4 hang2
   sik6 gau2 loeng4. "The dog's really fussy, she won't eat her kibble."
-- **Status:** new · wished 2026-11-17 · catching up, explaining why life is busy
+- **Status:** learning · wished 2026-11-17 · practised 2026-11-17 · catching up, explaining why life is busy
 - **See also:** [[everyday-life#唔肯食]], [[final-particles#㗎 — gaa3 / gaa4]]
 
 ### 唔肯食 — won't eat it
@@ -62,7 +62,7 @@ The job itself is [[describing-my-job]]. Office talk is [[work-small-talk]].
 - **Contrast:** 唔食 (m4 sik6) is "doesn't eat", a plain fact. 唔肯食 is "won't eat", a
   refusal, which is the point of the story. It's the same kind of split as 唔睇 vs 睇唔到
   in [[talking-about-money]].
-- **Status:** new · wished 2026-11-17 · catching up, explaining why life is busy
+- **Status:** learning · wished 2026-11-17 · practised 2026-11-17 · catching up, explaining why life is busy
 
 ### 氹佢食 — coax her into eating
 - **Jyutping:** tam3 keoi5 sik6
@@ -77,7 +77,7 @@ The job itself is [[describing-my-job]]. Office talk is [[work-small-talk]].
   sik6 lo3. "So we had no choice but to buy wet food to coax her into eating." 唯有 is
   "the only option was", and 囉 (lo3) adds the shrug: what else could we do.
   ⚠️ The sentence is composed; 唯有, 罐頭, 氹 and 囉 lo3 are each verified.
-- **Status:** new · wished 2026-11-17 · catching up, explaining why life is busy · ⚠️ unverified
+- **Status:** learning · wished 2026-11-17 · practised 2026-11-17 · catching up, explaining why life is busy · ⚠️ unverified
 - **See also:** [[final-particles#囉 — lo1 / lo3]]
 
 ### 撈啲罐頭落去 — mix some wet food in
@@ -94,7 +94,7 @@ The job itself is [[describing-my-job]]. Office talk is [[work-small-talk]].
 - **Example:** 要撈啲罐頭落啲狗糧度，佢先肯食。— jiu3 lou1 di1 gun3 tau2 lok6 di1 gau2 loeng4
   dou6, keoi5 sin1 hang2 sik6. "We have to mix some wet food into the kibble, only then
   will she eat it." 先 here is "only then", the same 先 as 到期先攞得出嚟.
-- **Status:** new · wished 2026-11-17 · catching up, explaining why life is busy · ⚠️ unverified
+- **Status:** learning · wished 2026-11-17 · practised 2026-11-17 · catching up, explaining why life is busy · ⚠️ unverified
   (撈 lou1 "mix" is verified; the full sentence is composed)
 - **See also:** [[talking-about-money#擺咗做定期]] (the same 先)
 
@@ -112,7 +112,7 @@ The job itself is [[describing-my-job]]. Office talk is [[work-small-talk]].
   split-verb version is the one words.hk shows.
 - **Example:** 我一日返八個鐘工。— ngo5 jat1 jat6 faan1 baat3 go3 zung1 gung1. "I work
   eight hours a day."
-- **Status:** new · wished 2026-11-17 · catching up, explaining why life is busy
+- **Status:** learning · wished 2026-11-17 · practised 2026-11-17 · catching up, explaining why life is busy
 - **See also:** [[work-small-talk#收工 — knock off]], [[describing-my-job]]
 
 ### 好燒腦 — really taxing on the brain
@@ -125,7 +125,7 @@ The job itself is [[describing-my-job]]. Office talk is [[work-small-talk]].
 - **Contrast:** 腦 is nou5 in the dictionary, but plenty of people say lou5. That's the
   n- → l- merger in [[lazy-sounds]]. 傷腦筋 is the older, more neutral "a headache to
   deal with".
-- **Status:** new · wished 2026-11-17 · catching up, explaining why life is busy
+- **Status:** learning · wished 2026-11-17 · practised 2026-11-17 · catching up, explaining why life is busy
 - **See also:** [[lazy-sounds]], [[software-and-tech]]
 
 ### 攰到散晒 — completely wiped out
@@ -148,7 +148,7 @@ The job itself is [[describing-my-job]]. Office talk is [[work-small-talk]].
 - **Example:** 放工嗰陣，個人已經攰到散晒。— fong3 gung1 go2 zan6, go3 jan4 ji5 ging1 gui6
   dou3 saan2 saai3. "By the time I finish work, I'm completely wiped out."
   ⚠️ The sentence is composed; 放工 and 攰到散晒 are each verified.
-- **Status:** new · wished 2026-11-17 · catching up, explaining why life is busy · ⚠️ unverified
+- **Status:** learning · wished 2026-11-17 · practised 2026-11-17 · catching up, explaining why life is busy · ⚠️ unverified
 - **See also:** [[work-small-talk#做OT — work overtime]]
 
 ## Everything after work
@@ -166,7 +166,7 @@ The job itself is [[describing-my-job]]. Office talk is [[work-small-talk]].
   zyu2 faan6, zap1 uk1, mat1 dou1 jiu3 zi6 gei2 gaau2. "After work I still have to go to
   the gym, cook, clean the flat. I have to handle everything myself."
   ⚠️ The sentence is composed from verified pieces.
-- **Status:** new · wished 2026-11-17 · catching up, explaining why life is busy · ⚠️ unverified
+- **Status:** learning · wished 2026-11-17 · practised 2026-11-17 · catching up, explaining why life is busy · ⚠️ unverified
 - **See also:** [[work-small-talk#收工 — knock off]]
 
 ### 做gym — work out
@@ -178,7 +178,7 @@ The job itself is [[describing-my-job]]. Office talk is [[work-small-talk]].
 - **Contrast:** 做運動 (zou6 wan6 dung6) is "do exercise" generally: running, hiking, a
   doctor's advice. 健身 (gin6 san1) is the word on the gym's sign. Same English-wins slot
   as 寫code.
-- **Status:** new · wished 2026-11-17 · catching up, explaining why life is busy
+- **Status:** learning · wished 2026-11-17 · practised 2026-11-17 · catching up, explaining why life is busy
 - **See also:** [[describing-my-job#寫code — write code]]
 
 ### 執屋 — tidy and clean the flat
@@ -191,7 +191,7 @@ The job itself is [[describing-my-job]]. Office talk is [[work-small-talk]].
 - **Contrast:** 打掃 (daa2 sou3) is sweeping and scrubbing, and sounds a bit formal for
   "I clean up at home". 執屋 is what you'd say. 煮飯 means making any meal, not just rice;
   saying 做飯 is the Mandarin calque.
-- **Status:** new · wished 2026-11-17 · catching up, explaining why life is busy · ⚠️ unverified
+- **Status:** learning · wished 2026-11-17 · practised 2026-11-17 · catching up, explaining why life is busy · ⚠️ unverified
   (洗碗 isn't in the local tables; I'm confident it's sai2 wun2, but didn't check it)
 
 ### 時間唔夠用 — there just isn't enough time
@@ -206,7 +206,7 @@ The job itself is [[describing-my-job]]. Office talk is [[work-small-talk]].
   with 做OT.
 - **Example:** 真係好難平衡，時間永遠唔夠用。— zan1 hai6 hou2 naan4 ping4 hang4, si4 gaan3
   wing5 jyun5 m4 gau3 jung6. "It's really hard to balance; there's never enough time."
-- **Status:** new · wished 2026-11-17 · catching up, explaining why life is busy · ⚠️ unverified
+- **Status:** learning · wished 2026-11-17 · practised 2026-11-17 · catching up, explaining why life is busy · ⚠️ unverified
   (every word is verified; whether 冇work-life balance is the commoner way to say it is
   my judgment, not a dictionary fact)
 - **See also:** [[work-small-talk#做OT — work overtime]]

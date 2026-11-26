@@ -111,3 +111,4 @@ the drill itself doesn't write to any page.
 ## [2026-11-12] ingest | everyday-money phrasing feedback → [[everyday-money-phrasing-feedback]], 擺咗落定期存款 → 擺咗做定期, [[talking-about-money]], [[banking-and-finance]]
 ## [2026-11-12] practice | 13 entries (all of the page), 17-sentence dinner scene; fixed 方法 fong3 → fong1 faat3 in the composite → [[describing-my-job]]
 ## [2026-11-17] wish | life is busy: 2 cats, fussy new dog, 8h office, gym/cook/clean → new [[everyday-life]] (13 entries)
+## [2026-11-17] practice | 12 entries, three scenes (catching up, the fussy dog, turning down dinner) → [[everyday-life]]

@@ -40,7 +40,7 @@ drifts.
 | [[work-small-talk]] | Office register, including the English code-switching. | 6 |
 | [[describing-my-job]] | Answering 「你做邊行?」— software engineer at a precast concrete company. The 寫code vs 寫程式 call lives here. | 12 |
 | [[talking-about-money]] | Explaining money to a worried parent. 好似…咁 does more work than any banking word. | 12 |
-| [[everyday-life]] | 「最近點呀?」— pets, tiredness, chores. 攰 not 疲倦, 揀飲擇食 not 偏食, 執屋 not 打掃. | 13 |
+| [[everyday-life]] | 「最近點呀?」— pets, tiredness, chores. 攰 not 疲倦, 揀飲擇食 not 偏食, 執屋 not 打掃. | 12 |
 
 ## Register
 
