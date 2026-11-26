@@ -2,7 +2,7 @@
 type: meta
 tags: [cantonese, meta/index]
 created: 2026-11-01
-updated: 2026-11-17
+updated: 2026-11-25
 ---
 
 # Index
@@ -11,8 +11,8 @@ Catalog of every page in the wiki. **Read this first** when answering a question
 drill into the pages it points to. Update it whenever a page is created or its summary
 drifts.
 
-**57 phrase entries** across 6 pages, plus 3 vocab lists (85 terms) and 4 source pages.
-20 seeded, 37 wished/ingested/captured. Mostly `new`; 22 `learning` after the 11-11 and 11-12 practices.
+**81 phrase entries** across 8 pages, plus 3 vocab lists (85 terms) and 5 source pages.
+20 seeded, 61 wished/ingested/captured. Mostly `new`; 56 `learning` after the 11-11, 11-12, 11-17, 11-19, 11-23 and two 11-25 practices.
 
 ## Meta
 
@@ -42,7 +42,7 @@ drifts.
 | [[talking-about-money]] | Explaining money to a worried parent. 好似…咁 does more work than any banking word. | 12 |
 | [[everyday-life]] | 「最近點呀?」— pets, tiredness, chores. 攰 not 疲倦, 揀飲擇食 not 偏食, 執屋 not 打掃. | 12 |
 | [[negotiating-my-salary]] | Retelling the offer negotiation to parents. offer / bonus / budget stay English; 傾人工, 開價, 最多得, 即刻簽, 生活成本. | 11 |
-| [[filming-my-family]] | Vlogging as a diary and filming the parents for future grandkids. 玩吓啫 not 為咗賺錢, 記錄低, 留返畀啲孫睇, 照平時咁就得, 再嚟過. | 12 |
+| [[filming-my-family]] | Vlogging as a diary and filming the parents for future grandkids. 玩吓啫 not 為咗賺錢, 記錄低, 留返畀啲孫睇, 照平時咁就得, 再嚟過, and 拍吓得唔得呀 for asking to film while travelling. | 13 |
 
 ## Register
 

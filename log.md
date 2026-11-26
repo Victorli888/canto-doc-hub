@@ -119,3 +119,6 @@ the drill itself doesn't write to any page.
 ## [2026-11-20] wish | videography/vlogging as a life diary, filming my parents for future grandkids → new [[filming-my-family]] (12 entries)
 ## [2026-11-23] practice | 12 entries, three scenes (dinner with friends, pitching it to Mom and Dad, first shoot) → [[filming-my-family]]
 ## [2026-11-23] ingest | not-for-money phrasing feedback → [[not-for-money-phrasing-feedback]], 唔係為咗賺錢 → 玩吓啫, [[filming-my-family]], new 啫 block in [[final-particles]]
+## [2026-11-25] practice | 5 entries, one scene (new acquaintance asks what I do) → [[describing-my-job]]
+## [2026-11-25] practice | 5 entries, one scene (filming Mom and Dad at home) → [[filming-my-family]]
+## [2026-11-25] wish | travelling, asking "hi, would it be okay to film this?" → [[filming-my-family]] (得唔得 / 介唔介意 / 可唔可以…㗎)

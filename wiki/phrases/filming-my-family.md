@@ -2,7 +2,7 @@
 type: phrases
 tags: [cantonese, situation/family, situation/small-talk, topic/hobbies]
 created: 2026-11-20
-updated: 2026-11-23
+updated: 2026-11-25
 ---
 
 # Filming My Family
@@ -105,7 +105,7 @@ Talking to Mom about money is [[talking-about-money]]. What you're both busy wit
   built in. 留返畀 says *who* it's for, and that's the emotional point.
 - **Example:** 我想拍吓你哋，留返畀第日啲孫睇。"I want to film you two, to keep for the
   grandkids someday." ⚠️ The sentence is composed. 留返, 畀, 第日 and 孫 are each verified.
-- **Status:** learning · wished 2026-11-20 · practised 2026-11-23 · persuading my parents to be filmed · ⚠️ unverified
+- **Status:** learning · wished 2026-11-20 · practised 2026-11-23 · practised 2026-11-25 · persuading my parents to be filmed · ⚠️ unverified
 - **See also:** [[filming-my-family#啲孫]]
 
 ### 啲孫 — the grandkids
@@ -159,7 +159,7 @@ Talking to Mom about money is [[talking-about-money]]. What you're both busy wit
   (相機, 量詞：部), but the phrase is not.
 - **Example:** 唔使理部機，照平時咁傾偈就得。"Don't mind the camera, just chat like you
   normally do." ⚠️ The sentence is composed.
-- **Status:** learning · wished 2026-11-20 · practised 2026-11-23 · filming my parents · ⚠️ unverified
+- **Status:** learning · wished 2026-11-20 · practised 2026-11-23 · practised 2026-11-25 · filming my parents · ⚠️ unverified
 - **See also:** [[talking-about-money#畀你平時用嘅]] (平時 over 日常, again)
 
 ### 望住個鏡頭 — look at the camera
@@ -171,7 +171,7 @@ Talking to Mom about money is [[talking-about-money]]. What you're both busy wit
 - **Register:** neutral.
 - **Contrast:** 鏡頭 (geng3 tau4) is the lens, or a single shot. 相機 (soeng2 gei1) is the
   camera itself, measure word 部. Your phone is 手機.
-- **Status:** learning · wished 2026-11-20 · practised 2026-11-23 · filming my parents
+- **Status:** learning · wished 2026-11-20 · practised 2026-11-23 · practised 2026-11-25 · filming my parents
 - **See also:** [[filming-my-family#唔鍾意上鏡]]
 
 ### 再嚟過 — let's do that again
@@ -183,7 +183,7 @@ Talking to Mom about money is [[talking-about-money]]. What you're both busy wit
 - **Register:** casual.
 - **Contrast:** 重新拍一次 is understandable, but stiff and spelled out. 再嚟過 is what
   people actually say on set and off it.
-- **Status:** learning · wished 2026-11-20 · practised 2026-11-23 · filming my parents
+- **Status:** learning · wished 2026-11-20 · practised 2026-11-23 · practised 2026-11-25 · filming my parents
 - **See also:** [[final-particles]]
 
 ### 剪片 — edit video
@@ -211,5 +211,33 @@ Talking to Mom about money is [[talking-about-money]]. What you're both busy wit
 - **Contrast:** Your comeback, verified word for word: **真人靚過上鏡** (zan1 jan4 leng3
   gwo3 soeng5 geng3), "you look better in person than on camera". Turn it round for a
   parent: 你上鏡好睇呀 ⚠️.
-- **Status:** learning · wished 2026-11-20 · practised 2026-11-23 · persuading my parents to be filmed
+- **Status:** learning · wished 2026-11-20 · practised 2026-11-23 · practised 2026-11-25 · persuading my parents to be filmed
 - **See also:** [[filming-my-family#照平時咁就得]]
+
+## Filming while travelling
+
+### 拍吓得唔得呀? — is it OK if I film a bit?
+- **Moment:** travelling, wanting to ask "hi, would it be okay to film this?" before filming a place, a stall or a person
+- **Jyutping:** paak3 haa5 dak1 m4 dak1 aa3
+- **Use:** 得唔得 is the permission tag. words.hk glosses it as asking whether you can do
+  something. 拍吓 ("film a bit") makes the request small, which makes it easy to grant.
+  Open with 唔好意思 to get their attention. There are three versions, depending on what
+  you're asking:
+  - **Filming a thing, a stall or a scene:** 「唔好意思，我想拍吓，得唔得呀?」 "Excuse
+    me, I'd like to film a bit. Is that OK?"
+  - **Filming a person:** 「唔好意思，介唔介意我拍吓你呀?」 "Excuse me, do you mind if I
+    film you?" 介唔介意 (gaai3 m4 gaai3 ji3) is attested in words.hk
+    (「你介唔介意…?」).
+  - **Asking staff whether filming is allowed at all:** 「呢度可唔可以拍片㗎?」 (ni1 dou6
+    ho2 m4 ho2 ji5 paak3 pin2 gaa3) "Are you allowed to film in here?" 㗎 asks about the
+    rule, not a favour.
+- **Register:** neutral to polite. It works with strangers, shop staff and stallholders.
+- **Contrast:** 「我可以拍嗎?」 is the Mandarin version. 嗎 marks you as a textbook
+  speaker straight away. Cantonese asks with the A-not-A form (得唔得, 可唔可以,
+  介唔介意) plus 呀. 請問我可以拍攝嗎 is the same problem twice: 請問 is the formal
+  opener ([[softening-and-politeness]]) and 拍攝 is a written word.
+- **Example:** 「唔好意思，我想拍吓，得唔得呀?」「得，冇問題。」"Excuse me, I'd like to
+  film a bit. Is that OK?" "Sure, no problem."
+- **Status:** new · wished 2026-11-25 · while travelling · ⚠️ unverified (得唔得,
+  介唔介意 and 唔好意思 are verified individually; the full sentences are composed)
+- **See also:** [[filming-my-family#拍片 / 拍vlog]], [[softening-and-politeness#唔好意思 — excuse me / sorry]], [[final-particles]]

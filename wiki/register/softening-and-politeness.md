@@ -2,7 +2,7 @@
 type: register
 tags: [cantonese, register/politeness]
 created: 2026-11-01
-updated: 2026-11-04
+updated: 2026-11-25
 ---
 
 # Softening and Politeness
@@ -28,6 +28,7 @@ Three mechanisms do most of the work:
 - **Register:** neutral, works everywhere.
 - **Contrast:** 對唔住 is for things that actually warrant sorry. Using it for bumping
   someone on the MTR sounds heavy.
+- **See also:** [[filming-my-family#拍吓得唔得呀? — is it OK if I film a bit?]] (唔好意思 + 得唔得, asking permission)
 - **Status:** new · captured 2026-11-01 · source: seed
 
 ### 對唔住 — I'm sorry

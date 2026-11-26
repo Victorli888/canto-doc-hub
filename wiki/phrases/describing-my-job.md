@@ -2,7 +2,7 @@
 type: phrases
 tags: [cantonese, situation/work, situation/small-talk]
 created: 2026-11-04
-updated: 2026-11-19
+updated: 2026-11-25
 ---
 
 # Describing My Job
@@ -27,7 +27,7 @@ generally is [[work-small-talk]]. How the offer got negotiated is [[negotiating-
   軟件 / 硬件 / 組件 it surfaces as **gin2** (a changed tone, written gin6-2). Saying
   jyun5 *gin6* is the mistake, and it is audible.
 - **Example:** 我係軟件工程師。— ngo5 hai6 jyun5 gin6-2 gung1 cing4 si1.
-- **Status:** learning · captured 2026-11-04 · practised 2026-11-12 · source: [[describing-my-job-dump]] · verified
+- **Status:** learning · captured 2026-11-04 · practised 2026-11-12 · practised 2026-11-25 · source: [[describing-my-job-dump]] · verified
   against words.hk and Wiktionary
 - **See also:** [[software-and-tech]], [[tone-sandhi]]
 
@@ -69,7 +69,7 @@ generally is [[work-small-talk]]. How the offer got negotiated is [[negotiating-
   English would put "I work at".
 - **Example:** 我喺一間做預製石屎嘅公司返工。— ngo5 hai2 jat1 gaan1 zou6 jyu6 zai3
   sek6 si2 ge3 gung1 si1 faan1 gung1. "I work at a precast concrete company."
-- **Status:** learning · captured 2026-11-04 · practised 2026-11-12 · source: [[describing-my-job-dump]]
+- **Status:** learning · captured 2026-11-04 · practised 2026-11-12 · practised 2026-11-25 · source: [[describing-my-job-dump]]
 - **See also:** [[work-small-talk]]
 
 ### 負責 — be responsible for / my patch is
@@ -83,7 +83,7 @@ generally is [[work-small-talk]]. How the offer got negotiated is [[negotiating-
   [[work-small-talk]].
 - **Example:** 我負責公司嘅網上商店平台。— ngo5 fu6 zaak3 gung1 si1 ge3 mong5 soeng6
   soeng1 dim3 ping4 toi4.
-- **Status:** learning · captured 2026-11-04 · practised 2026-11-12 · source: [[describing-my-job-dump]]
+- **Status:** learning · captured 2026-11-04 · practised 2026-11-12 · practised 2026-11-25 · source: [[describing-my-job-dump]]
 - **See also:** [[software-and-tech]]
 
 ### 我哋公司做… — my company makes …
@@ -98,7 +98,7 @@ generally is [[work-small-talk]]. How the offer got negotiated is [[negotiating-
 - **Example:** 我哋公司做石屎基建產品，例如沙井、渠管同擋土牆。— ngo5 dei6 gung1 si1
   zou6 sek6 si2 gei1 gin3 caan2 ban2, lai6 jyu4 saa1 zeng2, keoi4 gun2 tung4 dong2
   tou2 coeng4.
-- **Status:** learning · captured 2026-11-04 · practised 2026-11-12 · source: [[describing-my-job-dump]]
+- **Status:** learning · captured 2026-11-04 · practised 2026-11-12 · practised 2026-11-25 · source: [[describing-my-job-dump]]
 - **See also:** [[concrete-and-construction]]
 
 ### 落單 — place an order
@@ -128,7 +128,7 @@ generally is [[work-small-talk]]. How the offer got negotiated is [[negotiating-
   **dou2**, not dou3 — but 落石屎 is the trade phrase.) The particle 㗎 (gaa3) is what
   makes it a correction of an assumption rather than a bare statement; without it the
   line is flat.
-- **Status:** learning · captured 2026-11-04 · practised 2026-11-12 · source: [[describing-my-job-dump]] · ⚠️ unverified
+- **Status:** learning · captured 2026-11-04 · practised 2026-11-12 · practised 2026-11-25 · source: [[describing-my-job-dump]] · ⚠️ unverified
   (落石屎 and 㗎 are each verified; the assembled joke is composed, so its naturalness is
   not)
 - **See also:** [[final-particles]], [[concrete-and-construction]]
