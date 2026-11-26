@@ -113,3 +113,6 @@ the drill itself doesn't write to any page.
 ## [2026-11-17] wish | life is busy: 2 cats, fussy new dog, 8h office, gym/cook/clean → new [[everyday-life]] (13 entries)
 ## [2026-11-17] practice | 12 entries, three scenes (catching up, the fussy dog, turning down dinner) → [[everyday-life]]
 ## [2026-11-18] meta | Practice dialogues: two-column Cantonese | English table, no Jyutping in the lines (vocab table keeps it)
+## [2026-11-19] wish | salary negotiation retold to parents: offer 100k + 8% bonus, anchored at 120k, HR cap 110k, signed at 115k → new [[negotiating-my-salary]] (10 entries)
+## [2026-11-19] practice | 10 entries, three scenes (telling Mom, Dad's questions, replaying the call) → [[negotiating-my-salary]]
+## [2026-11-20] capture | 生活成本, 生活費 → [[negotiating-my-salary]]; replaced 生活指數 in the anchor example and composite

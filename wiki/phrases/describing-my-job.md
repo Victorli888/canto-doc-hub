@@ -2,7 +2,7 @@
 type: phrases
 tags: [cantonese, situation/work, situation/small-talk]
 created: 2026-11-04
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 
 # Describing My Job
@@ -14,7 +14,7 @@ and the concrete side, where the natural Cantonese is a colloquial word (石屎)
 than the textbook one (混凝土).
 
 Terms live in [[software-and-tech]] and [[concrete-and-construction]]. Office register
-generally is [[work-small-talk]].
+generally is [[work-small-talk]]. How the offer got negotiated is [[negotiating-my-salary]].
 
 ## What I am
 

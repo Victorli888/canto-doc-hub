@@ -41,6 +41,7 @@ drifts.
 | [[describing-my-job]] | Answering 「你做邊行?」— software engineer at a precast concrete company. The 寫code vs 寫程式 call lives here. | 12 |
 | [[talking-about-money]] | Explaining money to a worried parent. 好似…咁 does more work than any banking word. | 12 |
 | [[everyday-life]] | 「最近點呀?」— pets, tiredness, chores. 攰 not 疲倦, 揀飲擇食 not 偏食, 執屋 not 打掃. | 12 |
+| [[negotiating-my-salary]] | Retelling the offer negotiation to parents. offer / bonus / budget stay English; 傾人工, 開價, 最多得, 即刻簽, 生活成本. | 11 |
 
 ## Register
 

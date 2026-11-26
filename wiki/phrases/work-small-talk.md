@@ -2,7 +2,7 @@
 type: phrases
 tags: [cantonese, situation/work]
 created: 2026-11-01
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 
 # Work Small Talk
@@ -67,7 +67,7 @@ Saying what your job *is*, rather than getting through the day in it, is
 - **Contrast:** 討論 (tou2 leon6) is "discuss" — formal, and oversized for a two-minute
   conversation.
 - **Status:** new · captured 2026-11-01 · source: seed
-- **See also:** [[softening-and-politeness]]
+- **See also:** [[softening-and-politeness]], [[negotiating-my-salary#傾人工]] (傾 = negotiate)
 
 ### 食飯未啊? — have you eaten yet?
 - **Jyutping:** sik6 faan6 mei6 aa3

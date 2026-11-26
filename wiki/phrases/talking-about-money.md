@@ -2,7 +2,7 @@
 type: phrases
 tags: [cantonese, situation/family, topic/money]
 created: 2026-11-04
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 
 # Talking About Money
@@ -187,7 +187,7 @@ correct banking vocabulary, because the problem was never that Mom lacked the wo
   Same character, two words. The sentence-final 嘅 here is ge2, the changed tone that makes
   it a genuine puzzled question rather than a statement.
 - **Status:** learning · captured 2026-11-04 · practised 2026-11-11 · source: [[explaining-finances-to-mom-dump]]
-- **See also:** [[final-particles]], [[tone-sandhi]]
+- **See also:** [[final-particles]], [[tone-sandhi]], [[negotiating-my-salary#最多得]]
 
 ### 唔好俾人知 — don't let anyone know
 - **Jyutping:** m4 hou2 bei2 jan4 zi1
