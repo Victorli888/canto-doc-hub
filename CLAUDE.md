@@ -203,8 +203,10 @@ He says "practise", or "practise taxis". This is where entries turn into speech.
 1. Pick 3–5 entries: `learning` first, then the oldest `new`. Restrict to a page or
    situation if he names one.
 2. **Default delivery is a full scripted dialogue, written out in one pass for him to
-   read** — both sides, every line in Cantonese with Jyutping and an English gloss
-   underneath, replaying the Moment(s) as a continuous scene. Do not stop after each line
+   read** — both sides, replaying the Moment(s) as a continuous scene. Lay each scene out
+   as a **two-column table, Cantonese | English**, one line per row with the speaker
+   marked in the Cantonese cell. **No Jyutping in the dialogue** — it lives in the vocab
+   table only. Do not stop after each line
    to wait for his response — he reads straight through. Only switch to the stop-and-wait,
    he-answers-each-turn style if he explicitly asks to try answering himself (e.g. "let me
    try", "quiz me").
