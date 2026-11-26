@@ -116,3 +116,6 @@ the drill itself doesn't write to any page.
 ## [2026-11-19] wish | salary negotiation retold to parents: offer 100k + 8% bonus, anchored at 120k, HR cap 110k, signed at 115k → new [[negotiating-my-salary]] (10 entries)
 ## [2026-11-19] practice | 10 entries, three scenes (telling Mom, Dad's questions, replaying the call) → [[negotiating-my-salary]]
 ## [2026-11-20] capture | 生活成本, 生活費 → [[negotiating-my-salary]]; replaced 生活指數 in the anchor example and composite
+## [2026-11-20] wish | videography/vlogging as a life diary, filming my parents for future grandkids → new [[filming-my-family]] (12 entries)
+## [2026-11-23] practice | 12 entries, three scenes (dinner with friends, pitching it to Mom and Dad, first shoot) → [[filming-my-family]]
+## [2026-11-23] ingest | not-for-money phrasing feedback → [[not-for-money-phrasing-feedback]], 唔係為咗賺錢 → 玩吓啫, [[filming-my-family]], new 啫 block in [[final-particles]]

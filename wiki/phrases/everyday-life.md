@@ -2,7 +2,7 @@
 type: phrases
 tags: [cantonese, situation/small-talk, situation/home, topic/pets]
 created: 2026-11-17
-updated: 2026-11-17
+updated: 2026-11-20
 ---
 
 # Everyday Life
@@ -16,7 +16,8 @@ Most of the useful words here are colloquial words that have a stiff written twi
 書面語, which is the trap. **Complaining about being tired is where textbook Cantonese
 sounds most like a textbook.**
 
-The job itself is [[describing-my-job]]. Office talk is [[work-small-talk]].
+The job itself is [[describing-my-job]]. Office talk is [[work-small-talk]]. Filming the
+family as a hobby is [[filming-my-family]].
 
 ## The pets
 

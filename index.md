@@ -31,7 +31,7 @@ drifts.
 
 | Page | What it is | Entries |
 |---|---|---|
-| [[final-particles]] | 啦 吖 喇 囉 嘛 添 喎 咩 㗎 呀嘛 — the highest-leverage page here. 囉, 喎 and 㗎 each cover two particles. | 10 |
+| [[final-particles]] | 啦 吖 喇 囉 嘛 添 啫 喎 咩 㗎 呀嘛 — the highest-leverage page here. 囉, 喎 and 㗎 each cover two particles. | 11 |
 
 ## Phrases by situation
 
@@ -42,6 +42,7 @@ drifts.
 | [[talking-about-money]] | Explaining money to a worried parent. 好似…咁 does more work than any banking word. | 12 |
 | [[everyday-life]] | 「最近點呀?」— pets, tiredness, chores. 攰 not 疲倦, 揀飲擇食 not 偏食, 執屋 not 打掃. | 12 |
 | [[negotiating-my-salary]] | Retelling the offer negotiation to parents. offer / bonus / budget stay English; 傾人工, 開價, 最多得, 即刻簽, 生活成本. | 11 |
+| [[filming-my-family]] | Vlogging as a diary and filming the parents for future grandkids. 玩吓啫 not 為咗賺錢, 記錄低, 留返畀啲孫睇, 照平時咁就得, 再嚟過. | 12 |
 
 ## Register
 
@@ -71,6 +72,7 @@ drifts.
 | [[describing-my-job-dump]] | Victor's job-vocabulary sheet, 2026-11-04. Five Jyutping corrections and three register calls recorded here. |
 | [[explaining-finances-to-mom-dump]] | The finances-for-Mom sheet, 2026-11-04. One Jyutping error; 「冇唔見呀嘛」vindicated. |
 | [[everyday-money-phrasing-feedback]] | Critique of the 日常用嗰筆 line, 2026-11-12. 平時 over 日常, 做定期 over 定期存款. |
+| [[not-for-money-phrasing-feedback]] | Critique of 「唔係為咗賺錢」, 2026-11-23. 為咗 explains; 啫 dismisses. Victor picked 玩吓啫. |
 | [[words-hk-dataset]] | The reference layer: words.hk + rime-cantonese in `raw/words-hk/`, queried with `bin/canto`. Rule 1's first stop. |
 
 ## Strategies

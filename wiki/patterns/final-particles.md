@@ -2,7 +2,7 @@
 type: patterns
 tags: [cantonese, grammar/particles, priority/high]
 created: 2026-11-01
-updated: 2026-11-17
+updated: 2026-11-23
 ---
 
 # Final Particles
@@ -80,6 +80,19 @@ particles solid first; the stacks come along on their own.
   raining as well."
 - **Register:** casual.
 - **Status:** new · captured 2026-11-01 · source: seed
+
+### 啫 — ze1
+- **Jyutping:** ze1
+- **Use:** Shrinks what you just said: "just, only, no big deal". words.hk glosses it as
+  「只不過係噉」、「輕微」、「冇乜嘢」, and its examples are 「噉啫下話?」 and 「搵食啫，犯法呀?」.
+  Put it after anything you want to play down: 玩吓啫 ("just messing around"), 興趣啫
+  ("just a hobby").
+- **Register:** casual.
+- **Contrast:** Without it, 「玩吓」 is a flat statement. With it, the answer sounds
+  relaxed rather than defensive. 為咗… explains, and 啫 dismisses. That difference is
+  why 「唔係為咗賺錢」 sounded stiff where 「玩吓啫」 doesn't.
+- **Status:** new · captured 2026-11-23 · source: [[not-for-money-phrasing-feedback]]
+- **See also:** [[filming-my-family#玩吓啫]]
 
 ## Source of information
 

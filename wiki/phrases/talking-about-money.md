@@ -2,7 +2,7 @@
 type: phrases
 tags: [cantonese, situation/family, topic/money]
 created: 2026-11-04
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 # Talking About Money
@@ -155,7 +155,7 @@ correct banking vocabulary, because the problem was never that Mom lacked the wo
 - **Note on 畀 / 俾:** both are bei2 "give / for / let". 畀 is the words.hk character; 俾 is
   the common popular spelling (as in 唔好俾人知 below). Same word.
 - **Status:** new · captured 2026-11-12 · replacing my 日常 version · source: [[everyday-money-phrasing-feedback]]
-- **See also:** [[talking-about-money#擺咗做定期]], [[banking-and-finance]]
+- **See also:** [[talking-about-money#擺咗做定期]], [[banking-and-finance]], [[filming-my-family#照平時咁就得]] (平時 again)
 
 ### 跟住股市升跌 — moves with the stock market
 - **Jyutping:** gan1 zyu6 gu2 si5 sing1 dit3
